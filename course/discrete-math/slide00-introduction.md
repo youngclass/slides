@@ -1,7 +1,7 @@
 
-# Discrete Mathematics
-# 离散数学
-## Introductory Lecture
+## Discrete Mathematics
+## 离散数学
+### Introductory Lecture
 杨青青
 
 ---
