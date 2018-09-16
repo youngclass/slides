@@ -11,3 +11,4 @@
   class="fragment highlight-blue">discrete</span> (as opposed to <span
   class="fragment highlight-red">continuous</span>)
   objects.
+- $a+b$
